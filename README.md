@@ -1,4 +1,4 @@
-## 🤑Who pays the bill?
+# 🤑Who pays the bill?
 
 #### This is a simple React app that generates a random loser among a list of players. I was created for fun and can be used for various purposes such as deciding who pays the bill or who does the dishes.
 
